@@ -1,6 +1,8 @@
 body {
 background-image: url(sad-dzen.orig.jpg);
 background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
 
 .container{
